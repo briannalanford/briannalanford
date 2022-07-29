@@ -1,4 +1,4 @@
-<img align=“right” alt=“Coding” width=“400” src=“https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif”>
+<img align=“right” alt=“” width=“400” src=“https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif”>
 
 <h1 align="center">Hi 👋, I'm Brianna</h1>
 <h3 align="center">I'm a Full Stack Software Developer. I'm passionate about learning any and everything tech.</h3>
